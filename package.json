@@ -1,0 +1,8 @@
+{
+  "name": "@kazuhi-ra/is-null",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "isNull",
+  "author": "kazuhi-ra",
+  "license": "ISC"
+}
